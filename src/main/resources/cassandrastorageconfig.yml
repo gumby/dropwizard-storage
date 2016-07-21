@@ -1,0 +1,5 @@
+---
+storageConfiguration:
+  cassandra:
+    contacts: 127.0.0.1
+    fileChunkSize: 10240

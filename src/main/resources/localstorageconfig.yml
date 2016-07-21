@@ -1,0 +1,5 @@
+---
+storageConfiguration:
+  local:
+    dir: /Users/pgombola/Desktop/storage/data
+    bufferSize: 4096
